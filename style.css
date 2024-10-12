@@ -333,14 +333,15 @@
 .buttomdownload{
     width: 100%;
     background-image: linear-gradient(to right, rgb(26, 26, 151) ,rgb(121, 23, 121));
-    padding-bottom: 70px;
+    height: 325px;
+    padding-top: 10px;
 }
 
 .Downloadapp{
     text-align: center;
     color: whitesmoke;
     margin-bottom: 40px;
-    padding-top: 70px;
+    padding-top: 80px;
 }
 
 .badges3{
